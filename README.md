@@ -1,6 +1,7 @@
 ![Cover](./assets/cover.png)
 
 <p align="center">This is the opinionated configuration for theming Hyper and Terminal on Mac OS.</p>
+
 ## What plugins do you use?
 
 1. Shell: ["Oh My ZSH!"](https://ohmyz.sh/)
@@ -15,12 +16,15 @@
 ![Terminal Dark](./assets/terminal-dark.png)
 
 <p align="center">Mac OS Terminal with Dark theme</p>
+
 ![Terminal Light](./assets/terminal-light.png)
 
 <p align="center">Mac OS Terminal with Light theme</p>
+
 ![Hyper Dark](./assets/hyper-dark.png)
 
 <p align="center">Hyper with Dark theme</p>
+
 ![Hyper Light](./assets/hyper-light.png)
 
 <p align="center">Hyper with Light theme</p>
