@@ -2,6 +2,8 @@
 
 <p align="center">This is the opinionated configuration for theming Hyper and Terminal on Mac OS.</p>
 
+> **Notice**: If you are using Hyper, also check out [my new theme](https://github.com/ng-hai/hyper-rose-pine-next) `hyper-rose-pine-next` for better experience.
+
 ## What plugins do you use?
 
 1. Shell: ["Oh My ZSH!"](https://ohmyz.sh/)
